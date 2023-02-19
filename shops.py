@@ -15,7 +15,7 @@ for a, b in shops.items():
         d = d + 1
     print(f"Idę do {a} i kupuję tam {b}")
     
-
+print(f"W sumie kupuję {d} produktów")
 
 
 
